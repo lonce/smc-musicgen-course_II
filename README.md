@@ -195,7 +195,9 @@ The deliverable for the code assignments and paper implementation is a link to a
 
 # Final Project
 
-For the final project, students will design and implement a symbolic generative music system, adapting and/or combining one or more of the techniques learned throughout the course. 
+Students can choose to create a Final Project for either Part 1 or Part 2 of the course. The Final Project for Part 1 will focus on symbolic generative music, while the Final Project for Part 2 will focus on audio-based generative music.
+
+For those opting for a Final Project in Part 1, the task will be to design and implement a symbolic generative music system. This project should demonstrate the adaptation and/or combination of one or more techniques covered during the course.
 
 The final project can be done alone, or in a group of up to three people.
 
@@ -220,16 +222,28 @@ The final project deliverables are:
 
 # Evaluation
 
-Part 1 of the course will account for 50% of the student’s overall score in the *Computational Music Creativity* course.
+Evaluation for the Computational Music Creativity course will be as follows:
 
-* The four pre-class quizzes will account for 10% of the score.  
-* The four coding assignments and the paper implementation will be graded on a “pass” or “fail” basis, each contributing equally to 40% of the Part 1 score.  
-* The final project will be graded on a scale of 1 to 10\. The final project score will contribute the remaining 50% of the Part 1 score. The score for the final project will be based on the following criteria:  
-  * Soundness of the implementation  
-  * Cleanliness of the implementation (i.e., [clean code](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29))  
-  * Degree of innovation of the system  
-  * Clarity of the presentation  
-  * Quality of the creative output
+* Part 1 (Valerio): 30% of the overall score.  
+* Part 2 (Lonce): 30% of the overall score.  
+* Final Project: 40% of the overall score.
+
+## Part 1 Evaluation
+
+* Pre-class Quizzes (20% of Part 1 score):  
+  Four quizzes, each contributing equally.  
+* Coding Assignments and Paper Implementation (80% of Part 1 score):  
+  These will be graded on a “pass” or “fail” basis, with each assignment contributing equally to this portion.
+
+## Final Project Evaluation (Part 1\)
+
+If a student chooses to complete the Final Project associated with Part 1 (accounting for 40% of the overall course score), their work will be graded on a scale of 1 to 10 based on the following criteria:
+
+1. Soundness of the implementation  
+2. Cleanliness of the implementation (e.g., [clean code](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29))  
+3. Degree of innovation in the system  
+4. Clarity of the presentation  
+5. Quality of the creative output
 
 # Office Hours
 
