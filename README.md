@@ -2,6 +2,42 @@
 
 The first part of the Computational Music Creativity course focuses on exploring, implementing, and critically evaluating symbolic music generation techniques, including both traditional approaches and deep learning-based methods.
 
+- [Computational Music Creativity - Part 1 Syllabus](#computational-music-creativity---part-1-syllabus)
+- [Learning Objectives](#learning-objectives)
+- [Pre-requisites](#pre-requisites)
+- [Classes](#classes)
+  - [Class 1: Course Introduction](#class-1-course-introduction)
+  - [Class 2: Genetic Algorithms](#class-2-genetic-algorithms)
+  - [Class 3: Markov Chains](#class-3-markov-chains)
+  - [Class 4: RNN/LSTMs](#class-4-rnnlstms)
+  - [Class 5: Transformers](#class-5-transformers)
+  - [Class 6: Transformers Hack Session](#class-6-transformers-hack-session)
+  - [Class 7: Assignments Review](#class-7-assignments-review)
+  - [Class 8: Paper Implementation](#class-8-paper-implementation)
+  - [Class 9: Creative Reverse Engineering + Wrap-up](#class-9-creative-reverse-engineering--wrap-up)
+- [Teaching Approach](#teaching-approach)
+- [Tools and Programming Languages](#tools-and-programming-languages)
+- [Assignments](#assignments)
+  - [Pre-class quizzes](#pre-class-quizzes)
+  - [Coding Assignments](#coding-assignments)
+  - [Paper Implementation](#paper-implementation)
+  - [Deliverables](#deliverables)
+- [Final Project](#final-project)
+- [Deadlines](#deadlines)
+- [Evaluation](#evaluation)
+  - [Part 1 Evaluation](#part-1-evaluation)
+  - [Final Project Evaluation (Part 1)](#final-project-evaluation-part-1)
+- [Office Hours](#office-hours)
+- [Learning Material](#learning-material)
+  - [Required](#required)
+    - [Generative Music AI Theory + Implementation](#generative-music-ai-theory--implementation)
+    - [Generative Music AI Papers](#generative-music-ai-papers)
+    - [Symbolic Music Representation Formats](#symbolic-music-representation-formats)
+  - [Optional (but suggested, for real!)](#optional-but-suggested-for-real)
+    - [Deep Learning](#deep-learning)
+    - [Clean Code](#clean-code)
+
+
 # Learning Objectives
 
 * Understand the theoretical foundations and principles of symbolic generative music techniques, including Markov chains, cellular automata, genetic algorithms, RNNs/LSTMs, and transformers.  
