@@ -11,10 +11,10 @@ The first part of the Computational Music Creativity course focuses on exploring
   - [Class 3: Markov Chains](#class-3-markov-chains)
   - [Class 4: RNN/LSTMs](#class-4-rnnlstms)
   - [Class 5: Transformers](#class-5-transformers)
-  - [Class 6: Transformers Hack Session](#class-6-transformers-hack-session)
-  - [Class 7: Assignments Review](#class-7-assignments-review)
-  - [Class 8: Paper Implementation](#class-8-paper-implementation)
-  - [Class 9: Creative Reverse Engineering + Wrap-up](#class-9-creative-reverse-engineering--wrap-up)
+  - [Class 6: Assignments Review](#class-6-assignments-review)
+  - [Class 7: Paper Implementation](#class-7-paper-implementation)
+  - [Class 8: Creative Reverse Engineering + Wrap-up](#class-8-creative-reverse-engineering--wrap-up)
+  - [Hands-on Demo: Transformers Hack Session](#hands-on-demo-transformers-hack-session)
 - [Teaching Approach](#teaching-approach)
 - [Tools and Programming Languages](#tools-and-programming-languages)
 - [Assignments](#assignments)
@@ -28,6 +28,7 @@ The first part of the Computational Music Creativity course focuses on exploring
   - [Part 1 Evaluation](#part-1-evaluation)
   - [Final Project Evaluation (Part 1)](#final-project-evaluation-part-1)
 - [Office Hours](#office-hours)
+- [Communication](#communication)
 - [Learning Material](#learning-material)
   - [Required](#required)
     - [Generative Music AI Theory + Implementation](#generative-music-ai-theory--implementation)
@@ -146,9 +147,37 @@ Before taking this class, students are expected to have watched the following vi
 2. Transformers Explained Easily: Part 2 \[[video](https://www.youtube.com/watch?v=ctbvMnbylsA&list=PL-wATfeyAMNqAPjwGT3ikEz3gMo23pl-D&index=18)\] \[[slides](https://github.com/musikalkemist/generativemusicaicourse/blob/main/18.%20Transformers%20-%20Part%202/Slides/18.%20Transformers%20Part%202.pdf)\]  
 3. Melody Generation with Transformers \[[video](https://www.youtube.com/watch?v=j4LABY2d7k4&list=PL-wATfeyAMNqAPjwGT3ikEz3gMo23pl-D&index=19)\] \[[code](https://github.com/musikalkemist/generativemusicaicourse/tree/main/19.%20Melody%20generation%20with%20transformers/Code)\]
 
-## Class 6: Transformers Hack Session
+## Class 6: Assignments Review
 
-When: January 21st (or 23rd) at time TBD for 1:30h (in presence).
+When: January 27th at 16:00-18:30h (online).
+
+What: 
+
+* Discuss four code assignments.  
+* Check solutions together.
+
+## Class 7: Paper Implementation
+
+When: January 28th at 16:30-18:30h (online).
+
+What: 
+
+* How to implement a generative AI music paper.  
+* Check paper implementation together. 
+
+## Class 8: Creative Reverse Engineering \+ Wrap-up
+
+When: January 29th at 16:30-18:30h (online).
+
+What: 
+
+* Reverse engineer the output of a generative music system.  
+* During the class, in groups of three people, design a generative music system that can come up with the presented music output.  
+* Reflect on Part 1 of the course, ask questions, tips to get a job as a gen AI music engineer. 
+
+## Hands-on Demo: Transformers Hack Session
+
+When: TBD for 1:30h (in presence).
 
 What: 
 
@@ -161,34 +190,6 @@ Before taking this class, students are expected to have installed the following 
 1. Set up an account on cloud computing platforms \[AWS/GCP/Azure (TBD)\]  
 2. Hugging Face Transformers \[[blog](https://huggingface.co/docs/transformers/en/quicktour)\]  
 3. Hugging Face MuPT \[[blog](https://huggingface.co/m-a-p/MuPT-v1-8192-190M)\]
-
-## Class 7: Assignments Review
-
-When: January 27th at 16:00-18:30h (online).
-
-What: 
-
-* Discuss four code assignments.  
-* Check solutions together.
-
-## Class 8: Paper Implementation
-
-When: January 28th at 16:30-18:30h (online).
-
-What: 
-
-* How to implement a generative AI music paper.  
-* Check paper implementation together. 
-
-## Class 9: Creative Reverse Engineering \+ Wrap-up
-
-When: January 29th at 16:30-18:30h (online).
-
-What: 
-
-* Reverse engineer the output of a generative music system.  
-* During the class, in groups of three people, design a generative music system that can come up with the presented music output.  
-* Reflect on Part 1 of the course, ask questions, tips to get a job as a gen AI music engineer. 
 
 # Teaching Approach
 
@@ -283,12 +284,24 @@ If a student chooses to complete the Final Project associated with Part 1 (accou
 
 # Office Hours
 
-Students can book 20-minute slots (individually or in groups) with Dr. Valerio Velardo via this Calendly page, during the following times:
+Students can book 20-minute slots (individually or in groups) with Dr. Valerio Velardo via this [Calendly page](https://calendly.com/valerio-velardo/office-hours-gen-mus-mtg), during the following times:
 
 * January 17th, 18:30–20:30  
 * January 22nd, 18:30–20:30  
 * February 13th, 18:30–20:30  
 * March 6th, 18:30–20:30
+
+Students can reserve time with Anmol through MTG Slack, during the following times:
+
+* January 6-7th, 16:00–18:00  
+* January 9th, 16:00–18:00  
+* January 24th, 12:00–14:00
+
+# Communication
+
+For general questions, please use the dedicated Slack channel on the MTG workspace: \#smc24-musicgen. This channel will serve as a hub for asynchronous communication and updates for all students, so make sure to check it regularly. 
+
+For individual questions, doubts, or ideas, feel free to send a direct message to Valerio Velardo and Anmol Mishra in the MTG Slack (@Valerio Velardo, @Anmol Mishra).
 
 # Learning Material
 
