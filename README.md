@@ -248,11 +248,11 @@ The final project deliverables are:
 
 # Deadlines
 
-* The pre-class quizzes are due as follows:  
-  * Markov Chains quiz: January 12th at midnight  
-  * Genetic Algorithms quiz: January 12th at midnight  
-  * RNN/LSTM quiz: January 13th at midnight  
-  * Transformer quiz: January 14th at midnight  
+* The pre-class quizzes would be available as follows:  
+  * Markov Chains quiz: January 12th noon \- January 13th noon  
+  * Genetic Algorithms quiz: January 12th noon \- January 13th noon  
+  * RNN/LSTM quiz: January 13th noon \- January 14th noon  
+  * Transformer quiz: January 14th noon \- January 15th noon  
 * The four code assignments are due by January 26th at midnight.  
 * The paper implementation is due by January 27th at midnight.  
 * The final project is due by \[insert date\] at midnight.
