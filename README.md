@@ -2,4 +2,4 @@
 
 [Course Website](https://smc24-musicgen.github.io/)
 
-[Part 2 Syllabus (Generative Audio)](https://lonce.github.io/smc-musicgen-course_II/syllabus_PART_II)
+[Part 2 Syllabus (Generative Audio)](syllabus_PART_II)
