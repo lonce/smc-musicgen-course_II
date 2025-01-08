@@ -6,7 +6,7 @@ The second part of the Computational Music Creativity course focuses on raw audi
 - [Learning Objectives](#learning-objectives)
 - [Pre-requisites](#pre-requisites)
 - [Classes](#classes)
-  - [Class 1: Course Introduction](#class-2.1:-Course-Introduction)
+  - [Class 2.1: Course Introduction](#class-2.1:-Course-Introduction)
 - [Teaching Approach](#teaching-approach)
 - [Tools and Programming Languages](#tools-and-programming-languages)
 - [Assignments](#assignments)
@@ -18,13 +18,6 @@ The second part of the Computational Music Creativity course focuses on raw audi
 - [Office Hours](#office-hours)
 - [Communication](#communication)
 - [Learning Material](#learning-material)
-  - [Required](#required)
-    - [Generative Music AI Theory + Implementation](#generative-music-ai-theory--implementation)
-    - [Generative Music AI Papers](#generative-music-ai-papers)
-    - [Symbolic Music Representation Formats](#symbolic-music-representation-formats)
-  - [Optional (but suggested, for real!)](#optional-but-suggested-for-real)
-    - [Deep Learning](#deep-learning)
-    - [Clean Code](#clean-code)
 
 
 # Learning Objectives
