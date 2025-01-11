@@ -7,6 +7,4 @@ header: false
 include:
   - assets/css/style.css
 github:
-  skip_footer: true
-github:
-  skip_footer: true
+  skip_header: true
