@@ -4,5 +4,3 @@ plugins:
 title: Computational Music Creativity
 description: Part II Generative Audio
 header: false
-include:
-  - assets/css/style.css
