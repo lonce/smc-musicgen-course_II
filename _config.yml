@@ -6,5 +6,3 @@ description: Part II Generative Audio
 header: false
 include:
   - assets/css/style.css
-github:
-  skip_header: true
