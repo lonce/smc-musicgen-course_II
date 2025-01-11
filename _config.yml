@@ -6,3 +6,5 @@ description: Part II Generative Audio
 header: false
 include:
   - assets/css/style.css
+github:
+  is_project_page: false
