@@ -1,3 +1,7 @@
+---
+layout: default
+title: Syllabus for CMC Part II
+---
 # Computational Music Creativity \- Part 2 Syllabus: Generative Audio
 
 The second part of the Computational Music Creativity course focuses on raw audio generation techniques using deep learning-based methods.
