@@ -4,6 +4,8 @@ The second part of the Computational Music Creativity course focuses on raw audi
 
 - [Computational Music Creativity - Part 2 Syllabus](#computational-music-creativity---part-2-syllabus)
 - [Learning Objectives](#learning-objectives)
+  - [Concepts](#concepts) 
+  - [Architectures](#architectures) 
 - [Pre-requisites](#pre-requisites)
 - [Classes](#classes)
   - [Class 2.1: Course Introduction](#class-2.1:-Course-Introduction)
@@ -26,6 +28,29 @@ The second part of the Computational Music Creativity course focuses on raw audi
 * Develop/deepen your ability to read and understand research papers in the field. 
 * Understand not just how to use, but how to build or change networks to achieve your goals.  
 
+
+## Concepts 
+
+* Other “subsymbolic” audio representations
+​	frame-based
+​	codecs
+* Conditioning 
+* Managing long time dependencies 
+* Latent spaces for creative interaction
+* Managing computational overhead
+* Playability
+​	Offline vs online / Composition vs performance / Text vs RT Interaction
+
+## Architectures
+
+* Convolutional (e.g. Wavenet)
+* GAN (e.g. Sound Model Factory)
+* VAE (e.g. Rave)
+* DDSP (e.g. DDSP)
+* Transformers (Vampnet)
+​	(Building on Part 1)
+
+
 # Pre-requisites 
 
 * Students are expected to have intermediate proficiency in Python programming.  
@@ -33,8 +58,6 @@ The second part of the Computational Music Creativity course focuses on raw audi
 * A basic understanding of linear algebra (e.g., matrices, vectors, and matrix operations) will be helpful for classes focusing on deep learning concepts.  
 
 * A basic knowledge of **PyTorch** will be helpful for deep learning techniques.  
-
-   
 
 # Classes
 
@@ -131,37 +154,24 @@ For individual questions, doubts, or ideas, feel free to send a direct message t
 # Learning Material
 
 
-
 ## Seminal and/or important papers in Generative Audio
 
 * Van Den Oord, A., Dieleman, S., Zen, H., Simonyan, K., Vinyals, O., Graves, A., ... & Kavukcuoglu, K. (**2016**). **Wavenet**: A generative model for raw audio. *arXiv preprint arXiv:1609.03499*, *12*.
 
- 
-
 * Kumar, K., Kumar, R., De Boissiere, T., Gestin, L., Teoh, W. Z., Sotelo, J., ... & Courville, A. C. (**2019**). **Melgan**: Generative adversarial networks for conditional waveform synthesis. *Advances in neural information processing systems*, *32*.
-
-​	[keywords: Vocoder; Phase construction]
-
-
+​		[keywords: Vocoder; Phase construction]
 
 * Engel, J., Agrawal, K. K., Chen, S., Gulrajani, I., Donahue, C., & Roberts, A. **(2019**). **Gansynth**: Adversarial neural audio synthesis. *arXiv preprint arXiv:1902.08710*.
-
-​	[keywords: conditional training]
-
- 
+​		[keywords: conditional training]
 
 * Engel, J., Hantrakul, L., Gu, C., & Roberts, A. (**2020**). **DDSP**: Differentiable digital signal processing. *arXiv preprint arXiv:2001.04643*.
-
- 
-
 * Caillon, A., & Esling, P. (**2021**). **RAVE**: A variational autoencoder for fast and high-quality neural audio synthesis. *arXiv preprint arXiv:2111.05011*.
+​		[keywords: conditional training]
 
- 
+* Wyse, L., Kamath, P., & Gupta, C. (2022, April). Sound model factory: An integrated system architecture for generative audio modelling. In *International Conference on Computational Intelligence in Music, Sound, Art and Design (Part of EvoStar)* (pp. 308-322). Cham: Springer International Publishing.
+​		[keywords: playability; latent space]
 
 * Evans, Z., Parker, J. D., Carr, C. J., Zukowski, Z., Taylor, J., & Pons, J. (**2024**). **Stable audio open**. *arXiv preprint arXiv:2407.14358*.
-
-​	[keywords: Text-2-audio; Open (data, weights, code, latent diffusion]
-
- 
+​		[keywords: Text-2-audio; Open (data, weights, code, latent diffusion]
 
 * Rafael Valle, Rohan Badlani, Zhifeng Kong, Sang-gil Lee, Arushi Goel, Sungwon Kim, Joao Felipe Santos, Shuqi Dai, Siddharth Gururani, Aya AlJa’fari, Alex Liu, Kevin Shih, ˜ Wei Ping, Bryan Catanzaro (**2024**). **Fugatto** 1 Foundational Generative Audio Transformer Opus 1
