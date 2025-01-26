@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: midnight
 title: Syllabus for CMC Part II
 ---
+
 # Computational Music Creativity \- Part 2 Syllabus: Generative Audio
 
 The second part of the Computational Music Creativity course focuses on raw audio generation techniques using deep learning-based methods.
@@ -119,7 +120,7 @@ The course will cover both the theoretical and implementation aspects of  genera
 The course main teaching principles are: 
 
 * Theory (reading and lecture),  
-* "hands on" in-class challenges (mostly using Collab).
+* "hands on" in-class challenges (mostly using Collab and Jupyter notebooks).
 
 Students are expected to come to class prepared having read the paper assignments. 
 
@@ -131,7 +132,7 @@ Part 2 of the course will use Python and PyTorch.
 
 ## Pre-class quizzes
 
-Students will be required to submit a quiz on the current technology before each class. The quizzes will your understanding of the concepts discussed in the assigned reading.
+Students will be required to submit a quiz before each class to your understanding of the concepts discussed in the assigned readings.
 
 # Final Project
 
@@ -151,14 +152,8 @@ The final project deliverables are:
 
 # Deadlines
 
-* The pre-class quizzes would be available as follows:  
-  * Markov Chains quiz: January 12th noon \- January 13th noon  
-  * Genetic Algorithms quiz: January 12th noon \- January 13th noon  
-  * RNN/LSTM quiz: January 13th noon \- January 14th noon  
-  * Transformer quiz: January 14th noon \- January 15th noon  
-* The four code assignments are due by January 26th at midnight.  
-* The paper implementation is due by January 27th at midnight.  
-* The final project is due by Sunday March 29th at midnight (no extensions are possible!).
+* Coming soon:  
+  * 
 
 # Evaluation
 
@@ -170,13 +165,7 @@ Evaluation for the Computational Music Creativity course will be as follows:
 
 ## Final Project Evaluation (Part 2)
 
-If a student chooses to complete the Final Project associated with Part 1 (accounting for 40% of the overall course score), their work will be graded on a scale of 1 to 10 based on the following criteria:
-
-1. Soundness of code implementation  
-2. Cleanliness of the implementation (e.g., [clean code](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29))  
-3. Degree of thoughtfulness and innovation in the system  
-4. Clarity of the presentation  (writeup)
-5. Quality of the creative output
+Coming soon
 
 # Office Hours
 
